@@ -17,7 +17,7 @@ There are Google Workspace add-ons that provide similar functionality, but many 
     * For example, you might say "Thanks {{firstname}} {{lastname}} for filling out our form" if "firstname" and "lastname" are the column headings in the response spreadsheet
 * Go back to your form response spreadsheet, open the 'Extensions' menu and click on 'Apps Script'
 * A new apps-script project should be automatically generated. Give it a name.
-    * In the Code.gs file, paste the contents of the Code.gs file from this repository
+    * In the Code.gs file, paste the contents of the [Code.gs](https://github.com/boonecsd/pdf-from-gform/blob/main/Code.gs) file from this repository
         * At a minimum, review and update the fields in the script with "UPDATEME" in the comments
         * Click the 'save' icon to save your changes to the script
     * Using the lefthand menu, go to 'Triggers', click the '+ Add Trigger' button in the bottom right
