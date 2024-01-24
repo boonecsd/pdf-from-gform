@@ -19,6 +19,7 @@ There are Google Workspace add-ons that provide similar functionality, but many 
 * A new apps-script project should be automatically generated. Give it a name.
     * In the Code.gs file, paste the contents of the Code.gs file from this repository
         * At a minimum, review and update the fields in the script with "UPDATEME" in the comments
+        * Click the 'save' icon to save your changes to the script
     * Using the lefthand menu, go to 'Triggers', click the '+ Add Trigger' button in the bottom right
     * Fill in the following:
         * Choose which function to run: onFormSubmit
@@ -26,4 +27,5 @@ There are Google Workspace add-ons that provide similar functionality, but many 
         * Select event source: From spreadsheet
         * Select event type: On form submit
         * Failure noficiation settings: Notify me immediately (up to you, but I find this most useful)
+    * Authorize the script permissions as prompted - check in the address bar for blocked pop ups
 * Test it out ! Fill out your form and see if it works
