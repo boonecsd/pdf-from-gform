@@ -1,4 +1,4 @@
-# Generate a PDF from a Google Form
+# Generate and email a PDF from a Google Form
 
 ## Why ?
 Sometimes, you may need nicely formatted output as the result of a submission from a Google Form. Perhaps you need to physically print a copy, or you want to send a nicely formatted attachment to someone outside your organization.
